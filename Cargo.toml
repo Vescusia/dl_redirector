@@ -4,11 +4,11 @@ version = "0.1.0"
 edition = "2021"
 
 [[bin]]
-name = "receiver"
+name = "dl_receiver"
 path = "src/receiver.rs"
 
 [[bin]]
-name = "redirector"
+name = "dL_redirector"
 path = "src/redirector.rs"
 
 [dependencies]
